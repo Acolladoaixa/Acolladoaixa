@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola! Soy Aixa Collado 👋
 
-<!--
-**Acolladoaixa/Acolladoaixa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Analista de Datos
+Apasionada por transformar datos en decisiones clave a través del análisis exploratorio, modelado con SQL y visualizaciones dinámicas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🛠️ Tecnologías y Herramientas
+- **Lenguajes:** Python (Pandas, NumPy, Matplotlib), SQL
+- **Análisis de Datos:** Excel Avanzado, Análisis Exploratorio (EDA)
+- **Visualización:** Power BI / Tableau
+- **Control de Versiones:** Git, GitHub
+
+---
+
+### 📬 Contacto
+- **LinkedIn:** [Aixa Collado] 
+https://www.linkedin.com/in/aixa-collado-232811162
+- **Email:** aixarominacollado@gmail.com
+-
 -->
