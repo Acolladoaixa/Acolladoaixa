@@ -14,5 +14,5 @@ Apasionada por transformar datos en decisiones clave a través del análisis exp
 ---
 
 ### 📬 Contacto
-- *LinkedIn:* [Aixa Collado] https://www.linkedin.com/in/aixa-collado-232811162?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- *LinkedIn:* [Aixa Collado] (https://www.linkedin.com/in/aixa-collado-232811162)
 - *Email:* aixarominacollado@gmail.com
