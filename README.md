@@ -2,7 +2,7 @@
 
 ### 📊 Analista de Datos
 Apasionada por transformar datos en decisiones clave a través del análisis exploratorio, modelado con SQL y visualizaciones dinámicas.
-Estudio Licenciaura en Bologia.
+Estudio Licenciatura en Biologia.
 
 ---
 
